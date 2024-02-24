@@ -9,18 +9,9 @@ Olá! Sou um profissional de Tecnologia da Informação com uma ampla gama de ha
 ## Competências
 
 - **Técnicas:**
-  - Desenvolvimento de Software
-  - Priorização de Backlog
-  - Análise de Negócios em TI
-  - Gestão de Projetos de Sistemas
-  - Análise e Identificação de Fluxos
-  - Conhecimento em Desenvolvimento Mobile
+  - Desenvolvimento de Software | Priorização de Backlog | Análise de Negócios em TI | Gestão de Projetos de Sistemas | Análise e Identificação de Fluxos | Conhecimento em Desenvolvimento Mobile
 - **Comportamentais:**
-  - Facilidade de Comunicação
-  - Capacidade Analítica
-  - Produção de Documentação
-  - Gerenciamento de Riscos
-  - Bom Relacionamento Interpessoal
+  - Facilidade de Comunicação | Capacidade Analítica | Produção de Documentação | Gerenciamento de Riscos | Bom Relacionamento Interpessoal
 
 ## Experiência
 
