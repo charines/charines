@@ -10,6 +10,8 @@ Olá! Sou um profissional de Tecnologia da Informação com uma ampla gama de ha
 
 - **Técnicas:**
   - Desenvolvimento de Software | Priorização de Backlog | Análise de Negócios em TI | Gestão de Projetos de Sistemas | Análise e Identificação de Fluxos | Conhecimento em Desenvolvimento Mobile
+  - Coordenador de TI | Desenvolvedor | Java | Python | AWS | Azure | Backend | Frontend | SQL | PLSql | Full Stack Development
+  
 - **Comportamentais:**
   - Facilidade de Comunicação | Capacidade Analítica | Produção de Documentação | Gerenciamento de Riscos | Bom Relacionamento Interpessoal
 
