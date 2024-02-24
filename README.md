@@ -1,6 +1,6 @@
 # Charles Rodrigues
 
-[LinkedIn](https://www.linkedin.com/in/charlesrodrigues) | [Currículo Completo](link_para_o_seu_currículo_completo)
+[LinkedIn](https://www.linkedin.com/in/charlesrodrigues)
 
 ## Sobre Mim
 
