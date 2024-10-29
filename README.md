@@ -1,6 +1,33 @@
-# 💫 About Me:
-Aqui está uma estrutura que você pode usar para deixar seu perfil no GitHub visualmente atrativo e informativo:<br><br>---<br><br>## 👋 Olá, Bem-vindo ao meu Perfil no GitHub!<br><br>![Banner](https://yourimageurl.com/banner.jpg)<br><br>---<br><br>### Sobre Mim<br>Olá! 👋 Sou um profissional de **Tecnologia da Informação** com uma ampla gama de habilidades e experiência em **desenvolvimento de software**, **coordenação de equipes** e **gestão de projetos**. Tenho uma paixão por resolver problemas complexos e criar soluções inovadoras.<br><br>---<br><br>### 🔧 Habilidades Técnicas<br><br>- **Linguagens de Programação:** Java, Python, JavaScript, SQL<br>- **Cloud Computing:** AWS, Azure<br>- **Desenvolvimento Full Stack:** React, Node.js, Django, Spring Boot<br>- **Ferramentas e Tecnologias:** Docker, Kubernetes, Git, CI/CD<br><br>---<br><br>### 🌐 Redes Sociais<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)<br>[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/seu-perfil)<br>[![Blog](https://img.shields.io/badge/Blog-green?style=flat&logo=blogger)](https://seublog.com)<br><br>---<br><br>### 📈 Estatísticas do GitHub<br><br>![Anurag’s GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)<br><br>---<br><br>### 🌟 Projetos Destacados<br><br>#### [🚀 Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)<br>Uma breve descrição do projeto, destacando sua importância e como ele resolve problemas ou inova em alguma área.<br><br>---<br><br>Espero que esta estrutura ajude a criar um perfil atraente e que reflita seu conhecimento e experiência de forma profissional e visualmente interessante!
+👋 Olá, Bem-vindo ao meu Perfil no GitHub!
+Banner
 
+Sobre Mim
+Olá! 👋 Sou um profissional de Tecnologia da Informação com uma ampla gama de habilidades e experiência em desenvolvimento de software, coordenação de equipes e gestão de projetos. Tenho uma paixão por resolver problemas complexos e criar soluções inovadoras.
+
+🔧 Habilidades Técnicas
+Linguagens de Programação: Java, Python, JavaScript, SQL
+
+Cloud Computing: AWS, Azure
+
+Desenvolvimento Full Stack: React, Node.js, Django, Spring Boot
+
+Ferramentas e Tecnologias: Docker, Kubernetes, Git, CI/CD
+
+🌐 Redes Sociais
+LinkedIn
+
+Twitter
+
+Blog
+
+📈 Estatísticas do GitHub
+Anurag’s GitHub stats
+
+🌟 Projetos Destacados
+🚀 Projeto Incrível
+Uma breve descrição do projeto, destacando sua importância e como ele resolve problemas ou inova em alguma área.
+
+Espero que esta estrutura ajude a criar um perfil atraente e que reflita seu conhecimento e experiência de forma profissional e visualmente interessante!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charlesrodrigues/) 
